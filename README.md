@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armansj
-- 👀 I’m interested in Programming, physic engineering , linux and Internet of things.
+- 👀 I’m interested in Programming, Electronic engineering , linux and Internet of things.
 - 🌱 I’m currently learning Rust and Raspberry PI
 - 💞️ I’m looking to collaborate on Real Big Programming and IOT Project
 - 📫 How to reach me Sajediarman31@gmail.com
