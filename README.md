@@ -2,8 +2,9 @@
 - 👀 I’m interested in Programming, Electronic engineering , linux and Internet of things.
 - 🌱 I’m currently learning Rust and Raspberry PI & Arduino
 - 💞️ I’m looking to collaborate on Real Big Programming and IOT Project
-- 📫 How to reach me Sajediarman31@gmail.com , https://armanrpi.wordpress.com
-- 🎲 Check my instagram: https://www.instagram.com/arman_rpi/  to see cool thing
+- 📫 How to reach me Sajediarman31@gmail.com
+- 🧠 check my website :  https://armanrpi.wordpress.com
+- 🎲 Check my instagram : https://www.instagram.com/arman_rpi/  to see cool thing
 
 <!---
 armansj/armansj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
